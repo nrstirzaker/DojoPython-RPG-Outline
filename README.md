@@ -1,0 +1,1 @@
+:::image type="content" source="rpg-final-map.png" alt-text="Initial layout of the rooms":::
